@@ -1,0 +1,7 @@
+Django==3.2.20    # LTS version of Django compatible with Djongo
+djongo==1.3.6     # Works with Django 3.2.x
+sqlparse==0.2.4   # Required by djongo
+mongoengine==0.28.2  # MongoDB ORM
+pymongo==4.0.1
+djangorestframework==3.14.0  # Use the version you need or the latest stable one
+Pillow==11.0.0
